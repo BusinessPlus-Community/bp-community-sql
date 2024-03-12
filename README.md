@@ -23,9 +23,9 @@ TBD
 
 Contributions are always welcome!
 
-See [`contributing.md`](https://github.com/BusinessPlus-Community/bp-community-sql/contributing.md) for ways to get started.
+See [`contributing.md`](https://github.com/BusinessPlus-Community/bp-community-sql/blob/main/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [`code of conduct`](https://github.com/BusinessPlus-Community/bp-community-sql/CODE_OF_CONDUCT.md).
+Please adhere to this project's [`code of conduct`](https://github.com/BusinessPlus-Community/bp-community-sql/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## Authors
