@@ -1,7 +1,7 @@
 
 # BusinessPlus Community SQL
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+![GitHub License](https://img.shields.io/github/license/BusinessPlus-Community/bp-community-sql)
 
 
 This project consists of BusinessPlus specific TSQL scripts that have been submitted by various users of the software.
