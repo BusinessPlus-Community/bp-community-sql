@@ -1,9 +1,9 @@
 
 # BusinessPlus Community SQL
 
-[![GitHub License](https://img.shields.io/github/license/BusinessPlus-Community/bp-community-sql)(https://github.com/BusinessPlus-Community/bp-community-sql/blob/main/LICENSE.md)]
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BusinessPlus-Community/bp-community-sql)(https://github.com/BusinessPlus-Community/bp-community-sql/issues)]
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bpluscommunity.org%2F)(https://www.bpluscommunity.org)]
+[![GitHub License](https://img.shields.io/github/license/BusinessPlus-Community/bp-community-sql)](https://github.com/BusinessPlus-Community/bp-community-sql/blob/main/LICENSE.md)]
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BusinessPlus-Community/bp-community-sql)](https://github.com/BusinessPlus-Community/bp-community-sql/issues)]
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bpluscommunity.org%2F)](https://www.bpluscommunity.org)]
 
 
 
