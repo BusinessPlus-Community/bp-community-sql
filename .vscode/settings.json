@@ -1,0 +1,51 @@
+{
+  "editor.defaultFormatter": "dorzey.vscode-sqlfluff",
+  "editor.formatOnSave": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "files.autoSave": "onFocusChange",
+  "workbench.startupEditor": "none",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "material-icon-theme.folders.associations": {
+    "webforms": "Public",
+    "bp-layout": "Layout"
+  },
+  "search.exclude": {
+    "**/.yarn/**": true,
+    "**/.pnp.**": true
+  },
+  "sqlfluff.config": "${workspaceFolder}/.sqlfluff",
+  "sqlfluff.dialect": "tsql",
+  "sqlfluff.env.useDotEnvFile": false,
+  "sqlfluff.excludeRules": ["L009"],
+  "sqlfluff.executablePath": "sqlfluff",
+  "sqlfluff.ignoreLocalConfig": false,
+  "sqlfluff.ignoreParsing": false,
+  "sqlfluff.rules": [],
+  "sqlfluff.suppressNotifications": false,
+  "sqlfluff.workingDirectory": "",
+  /* Linter */
+  "sqlfluff.linter.arguments": [],
+  "sqlfluff.linter.run": "onSave",
+  "sqlfluff.linter.diagnosticSeverity": "error",
+  "sqlfluff.linter.diagnosticSeverityByRule": [
+    {
+      "rule": "L010",
+      "severity": "warning"
+    }
+  ],
+  "sqlfluff.linter.lintEntireProject": false,
+  /* Formatter */
+  "sqlfluff.format.arguments": ["--FIX-EVEN-UNPARSABLE"],
+  "sqlfluff.format.enabled": true,
+  "sqlfluff.experimental.format.executeInTerminal": true,
+  "sqlfluff.linter.languages": [
+    "tsql",
+    "sql",
+    "sql-bigquery",
+    "jinja-sql",
+    "postgres",
+    "snowflake-sql"
+  ],
+}
